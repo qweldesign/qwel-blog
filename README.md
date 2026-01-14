@@ -4,6 +4,10 @@
 マークダウン形式の独自システムに移し、運用を継続しようとしたものの、  
 執筆のモチベーションがイマイチ上がらず、断念。  
 
+2026年現在、[過疎と向き合う | 道具と言葉の開拓者](https://note.com/taigoito) としてnoteを執筆中。  
+
+※ このリポジトリは、[QWEL Markdown Engine (Simple CMS)](https://github.com/qweldesign/qwel-tools-md-engine) を使用して制作しています。  
+
 ---
 
 ## ライセンス | License
